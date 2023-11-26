@@ -1,6 +1,12 @@
 # **Greatsword V3**
 
-[Official Discord Server](https://discord.gg/BMxe6D9CKv)
+***Use [This](https://github.com/tacogamerman/dorians-games) if you want over 50 games!***
+
+[Official Site Link](https://sword.msg.boats/)
+
+[The Subreddit](https://www.reddit.com/r/swordstuff/)
+
+[Discord Server](https://discord.gg/BMxe6D9CKv)
 
 -------
 
@@ -8,7 +14,7 @@
 
 -------
 
-<img width="960" alt="image" src="https://github.com/Tacogamerman/Greatsword-V3/assets/119009502/1dceac26-624c-4c82-be50-32d1097513c0">
+<img width="952" alt="image" src="https://github.com/Tacogamerman/Greatsword-V3/assets/119009502/a599bcec-5c58-41fe-a2e7-4235039b2ac7">
 
 
 -------
